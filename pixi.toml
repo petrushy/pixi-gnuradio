@@ -1,0 +1,18 @@
+[project]
+authors = ["Petrus Hyvönen <petrus.hyvonen@gmail.com>"]
+channels = ["conda-forge"]
+description = "A pixi configuration for running GNU Radio easily"
+name = "pixi-gnuradio"
+platforms = ["linux-64", "win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+gnuradio = ">=3.10.11.0,<4"
+gnuradio-satellites = ">=5.6.0,<6"
+gnuradio-zeromq = ">=3.10.11.0,<4"
+gnuradio-qtgui = ">=3.10.11.0,<4"
+gnuradio-grc = ">=3.10.11.0,<4"
+gnuradio-iio = ">=3.10.11.0,<4"
+gnuradio-pmt = ">=3.10.11.0,<4"
