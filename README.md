@@ -11,6 +11,10 @@ To add a dependency:
 
     pixi add plotly
 
+To get a shell for running commands ("activate")
+
+   pixi shell
+   
 
 One can instead use global install
 
