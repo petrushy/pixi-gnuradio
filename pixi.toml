@@ -1,4 +1,4 @@
-[project]
+[workspace]
 authors = ["Petrus Hyvönen <petrus.hyvonen@gmail.com>"]
 channels = ["conda-forge"]
 description = "A pixi configuration for running GNU Radio easily"
