@@ -90,7 +90,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-iio-3.10.12.0-py314h24e2ce1_6.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-pmt-3.10.12.0-py314h4d3b619_6.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-qtgui-3.10.12.0-py314h7e6ba86_6.conda
-      - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-satellites-5.8.0-py314he87f921_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-satellites-5.9.0-py314he87f921_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-soapy-3.10.12.0-py314h1c85fdd_6.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-uhd-3.10.12.0-py314hb719d27_6.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-video-sdl-3.10.12.0-py314he86fe02_6.conda
@@ -115,7 +115,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/intel-gmmlib-22.8.2-hb700be7_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/intel-media-driver-25.3.4-hecca717_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipykernel-7.1.0-pyha191276_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.8.0-pyh53cf698_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.9.0-pyh53cf698_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipython_pygments_lexers-1.1.1-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isoduration-20.11.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isort-7.0.0-pyhd8ed1ab_0.conda
@@ -133,7 +133,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.17.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/keyutils-1.6.3-hb9d3cd8_0.conda
@@ -284,7 +284,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/pillow-12.0.0-py314h8ec4b1a_2.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/pixman-0.46.4-h54a6638_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.5.1-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pluggy-1.6.0-pyhf9edf01_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ply-3.11-pyhd8ed1ab_3.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/portaudio-19.7.0-hf4617a5_0.conda
@@ -493,7 +493,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-iio-3.10.12.0-py314h24dc91e_6.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-pmt-3.10.12.0-py314h4ac9260_6.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-qtgui-3.10.12.0-py314h61e6409_6.conda
-      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-satellites-5.8.0-py314hee8fdc3_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-satellites-5.9.0-py314hee8fdc3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-soapy-3.10.12.0-py314h1630f4b_6.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-uhd-3.10.12.0-py314h0f59b11_6.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-video-sdl-3.10.12.0-py314h5c356db_6.conda
@@ -516,7 +516,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/idna-3.11-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipykernel-7.1.0-pyh5552912_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.8.0-pyh53cf698_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.9.0-pyh53cf698_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipython_pygments_lexers-1.1.1-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isoduration-20.11.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isort-7.0.0-pyhd8ed1ab_0.conda
@@ -533,7 +533,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.17.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/kiwisolver-1.4.9-py314h42813c9_2.conda
@@ -638,7 +638,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/pillow-12.0.0-py314h57fbdfe_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/pixman-0.46.4-h81086ad_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.5.1-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pluggy-1.6.0-pyhf9edf01_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ply-3.11-pyhd8ed1ab_3.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/portaudio-19.7.0-h5833ebf_0.conda
@@ -811,7 +811,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-iio-3.10.12.0-py314hed4b987_6.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-pmt-3.10.12.0-py314h711970b_6.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-qtgui-3.10.12.0-py314h802ae97_6.conda
-      - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-satellites-5.8.0-py314h0fde17d_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-satellites-5.9.0-py314h0fde17d_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-soapy-3.10.12.0-py314h39d254c_6.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-uhd-3.10.12.0-py314hf4611a0_6.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-video-sdl-3.10.12.0-py314hd7f07c0_6.conda
@@ -833,7 +833,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/idna-3.11-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipykernel-7.1.0-pyh6dadd2b_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.8.0-pyhe2676ad_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.9.0-pyhe2676ad_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipython_pygments_lexers-1.1.1-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isoduration-20.11.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/isort-7.0.0-pyhd8ed1ab_0.conda
@@ -850,7 +850,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.17.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/kiwisolver-1.4.9-py314hf309875_2.conda
@@ -938,7 +938,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/pillow-12.0.0-py314h61b30b5_2.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/pixman-0.46.4-h5112557_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.5.1-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pluggy-1.6.0-pyhf9edf01_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/ply-3.11-pyhd8ed1ab_3.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/portaudio-19.7.0-he0c23c2_0.conda
@@ -3128,9 +3128,9 @@ packages:
   license_family: GPL
   size: 964491
   timestamp: 1762299587050
-- conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-satellites-5.8.0-py314he87f921_3.conda
-  sha256: b04a3407916fd13527861df2f86379de045d8cc47a108368e65df76cde4e809d
-  md5: 220b0f7d8b9614c37ad5dbccabdf421c
+- conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-satellites-5.9.0-py314he87f921_0.conda
+  sha256: 14f2e6d0ebad5cb9bdb9c78cec6b6b7ed900bd317fbe76be6759df2782e966f9
+  md5: d65d6fd1a6ffdb9558f9a6b72e2c133f
   depends:
   - __glibc >=2.17,<3.0.a0
   - construct >=2.9
@@ -3152,11 +3152,11 @@ packages:
   - websocket-client
   license: GPL-3.0-or-later
   license_family: GPL
-  size: 813316
-  timestamp: 1762443045454
-- conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-satellites-5.8.0-py314hee8fdc3_3.conda
-  sha256: 210d6d16638858ae9f70ce3f3e846a68d66a4230830df0262e1fa01a66081d26
-  md5: 6c98a0e69c5951423be10089ac0fd327
+  size: 834569
+  timestamp: 1765703572218
+- conda: https://conda.anaconda.org/conda-forge/osx-arm64/gnuradio-satellites-5.9.0-py314hee8fdc3_0.conda
+  sha256: 2e4e2ba4953262067d5f874e6cdba9fee54a4b128f9d01abdd828a25a2156f93
+  md5: 5d3eb2c44f769f895fcbbabaaa6b328d
   depends:
   - __osx >=11.0
   - construct >=2.9
@@ -3177,11 +3177,11 @@ packages:
   - websocket-client
   license: GPL-3.0-or-later
   license_family: GPL
-  size: 743283
-  timestamp: 1762443892710
-- conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-satellites-5.8.0-py314h0fde17d_3.conda
-  sha256: e1caf20baad2f86a451ab9465103d9e283ab72a658ea8c8763a520fe498c2ed7
-  md5: b3532cd16111333d2541c1de071c9a2a
+  size: 760845
+  timestamp: 1765703789383
+- conda: https://conda.anaconda.org/conda-forge/win-64/gnuradio-satellites-5.9.0-py314h0fde17d_0.conda
+  sha256: 8be4014debaaf61cf5226f7797e4961b680625f81a5641c17c343a20d69a493f
+  md5: 54dcbaafee830c10ec2fba0f62ab0ec9
   depends:
   - construct >=2.9
   - fmt >=12.0.0,<12.1.0a0
@@ -3202,8 +3202,8 @@ packages:
   - websocket-client
   license: GPL-3.0-or-later
   license_family: GPL
-  size: 767660
-  timestamp: 1762443426312
+  size: 780164
+  timestamp: 1765703931395
 - conda: https://conda.anaconda.org/conda-forge/linux-64/gnuradio-soapy-3.10.12.0-py314h1c85fdd_6.conda
   sha256: fc1e703a8aa05bdb029bc96a594e4a9019b9ec762c76954122515ce4e1b70a6c
   md5: acbf5d1115b2d8857e83791a17b57c61
@@ -4011,9 +4011,9 @@ packages:
   license_family: BSD
   size: 133820
   timestamp: 1761567932044
-- conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.8.0-pyh53cf698_0.conda
-  sha256: 8a72c9945dc4726ee639a9652b622ae6b03f3eba0e16a21d1c6e5bfb562f5a3f
-  md5: fd77b1039118a3e8ce1070ac8ed45bae
+- conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.9.0-pyh53cf698_0.conda
+  sha256: 4ff1733c59b72cf0c8ed9ddb6e948e99fc6b79b76989282c0c7a46aab56e6176
+  md5: 8481978caa2f108e6ddbf8008a345546
   depends:
   - __unix
   - pexpect >4.3
@@ -4030,11 +4030,11 @@ packages:
   - python
   license: BSD-3-Clause
   license_family: BSD
-  size: 645145
-  timestamp: 1764766793792
-- conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.8.0-pyhe2676ad_0.conda
-  sha256: 7c6974866caaccb7eb827bb70523205601c10b8e89d724b193cb4e818f4db2bd
-  md5: 1bc380b3fd0ea85afdfe0aba5b6b7398
+  size: 646242
+  timestamp: 1767621166614
+- conda: https://conda.anaconda.org/conda-forge/noarch/ipython-9.9.0-pyhe2676ad_0.conda
+  sha256: 1697fae5859f61938ab44af38126115ad18fc059462bb370c5f8740d7bc4a803
+  md5: fe785355648dec69d2f06fa14c9e6e84
   depends:
   - __win
   - colorama >=0.4.4
@@ -4051,8 +4051,8 @@ packages:
   - python
   license: BSD-3-Clause
   license_family: BSD
-  size: 644388
-  timestamp: 1764766840112
+  size: 645119
+  timestamp: 1767621201570
 - conda: https://conda.anaconda.org/conda-forge/noarch/ipython_pygments_lexers-1.1.1-pyhd8ed1ab_0.conda
   sha256: 894682a42a7d659ae12878dbcb274516a7031bbea9104e92f8e88c1f2765a104
   md5: bd80ba060603cc228d9d81c257093119
@@ -4293,9 +4293,9 @@ packages:
   license_family: BSD
   size: 19711
   timestamp: 1733428049134
-- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.0-pyhd8ed1ab_0.conda
-  sha256: 6f35218db61b7c42026a14b8c6630302ebbc7624a39f1aa65b8335c3e61cb401
-  md5: e6dc3d6bf1591f0ebe8e77959e950660
+- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab-4.5.2-pyhd8ed1ab_0.conda
+  sha256: 4e277cee7fc4b403c954960476375e5a51babd06f3ac46a04bd9fff5971aa569
+  md5: 513e7fcc06c82b24c84ff88ece13ac9f
   depends:
   - async-lru >=1.0.0
   - httpx >=0.25.0,<1
@@ -4314,8 +4314,8 @@ packages:
   - traitlets
   license: BSD-3-Clause
   license_family: BSD
-  size: 8323112
-  timestamp: 1763479901072
+  size: 7915612
+  timestamp: 1768223141907
 - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
   sha256: dc24b900742fdaf1e077d9a3458fd865711de80bca95fe3c6d46610c532c6ef0
   md5: fd312693df06da3578383232528c468d
@@ -7374,6 +7374,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - libnghttp2 >=1.67.0,<2.0a0
   license: MIT
+  license_family: MIT
   size: 23504771
   timestamp: 1765210770135
 - conda: https://conda.anaconda.org/conda-forge/osx-arm64/nodejs-24.10.0-h64c5147_2.conda
@@ -7934,9 +7935,9 @@ packages:
   license_family: MIT
   size: 23922
   timestamp: 1764950726246
-- conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.0-pyhd8ed1ab_0.conda
-  sha256: 13b06d2380fc46c299d2ae3465f90f156929b7f98597fc22b0e7ac0cfd40c20d
-  md5: 6d4c79b604d50c1140c32164f7eca72a
+- conda: https://conda.anaconda.org/conda-forge/noarch/plotly-6.5.2-pyhd8ed1ab_0.conda
+  sha256: 48d2caf66b8209bfb3fa160f5bc7cbd625deaa4826e8aa1bad706b2dd22bbb86
+  md5: 7702bcd70891dd0154d765a69e1afa94
   depends:
   - narwhals >=1.15.1
   - packaging
@@ -7945,8 +7946,8 @@ packages:
   - ipywidgets >=7.6
   license: MIT
   license_family: MIT
-  size: 5179039
-  timestamp: 1763430425844
+  size: 4924275
+  timestamp: 1768442503807
 - conda: https://conda.anaconda.org/conda-forge/noarch/pluggy-1.6.0-pyhf9edf01_1.conda
   sha256: e14aafa63efa0528ca99ba568eaf506eb55a0371d12e6250aaaa61718d2eb62e
   md5: d7585b6550ad04c8c5e21097ada2888e
